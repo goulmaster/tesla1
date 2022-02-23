@@ -1,0 +1,49 @@
+html,
+body {
+  margin: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+header {
+  background-image: url(../images/7fae6787245b752609e132196e354fde.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  top: 0;
+  z-index: 0;
+}
+
+article {
+  position: relative;
+  z-index: 1;
+  background: white;
+  padding: 20px;
+}
+
+
+
+/*.dark-bg{
+    background-image: linear-gradient(rgba(0,0,0, .9), rgba(0,0,0, .9)), url('../images/7fae6787245b752609e132196e354fde.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#hero .container{
+    height: 50vh;
+}
+*/
+
+/*.row{
+    padding: 0%;
+}
+.text{
+   margin: -1px;
+   padding: 5px;
+}
+.btn{
+    padding: 5%;
+}
+-->*/
